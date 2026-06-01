@@ -1,0 +1,5 @@
+git init//it is whether git is preasent or not
+git add .// it is staring step for adding
+git commit -am "initial commit"
+git remote add origin "https repository key" //to connect the repository
+git push origin master
